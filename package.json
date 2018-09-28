@@ -1,6 +1,9 @@
 {
   "name": "dockeryarn1",
   "version": "0.0.1",
+  "scripts": {
+    "test": "ls -l"
+  },
   "dependencies": {
     "chalk": "2.4.0"
   }
